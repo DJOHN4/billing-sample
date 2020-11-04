@@ -17,36 +17,20 @@ The sample req payload is below.
   "purchasedItemList": [  
     {    
       "itemName": "Cola",      
-      "quantity": 3
-      
-    },
-    
-    {
-    
-      "itemName": "Coffee",
-      
-      "quantity": 2
-      
-    },
-    
-    {
-    
-      "itemName": "Cheese-Sandwich",
-      
-      "quantity": 2
-      
-    },
-    
-    {
-    
-      "itemName": "Steak-Sandwich",
-      
-      "quantity": 3
-      
-    }
-    
-  ],
-  
-  "tableNumber": "TAB0012"
-  
+      "quantity": 3      
+    },    
+    {    
+      "itemName": "Coffee",      
+      "quantity": 2      
+    },    
+    {    
+      "itemName": "Cheese-Sandwich",      
+      "quantity": 2      
+    },    
+    {    
+      "itemName": "Steak-Sandwich",      
+      "quantity": 3      
+    }    
+  ],  
+  "tableNumber": "TAB0012"  
 }
