@@ -13,6 +13,7 @@ The sample req payload is below.
 
 
 {
+
   "orderId": "ORD1234",  
   "purchasedItemList": [  
     {    
@@ -33,4 +34,5 @@ The sample req payload is below.
     }    
   ],  
   "tableNumber": "TAB0012"  
+  
 }
