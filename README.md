@@ -13,15 +13,10 @@ The sample req payload is below.
 
 
 {
-
-  "orderId": "ORD1234",
-  
-  "purchasedItemList": [
-  
-    {
-    
-      "itemName": "Cola",
-      
+  "orderId": "ORD1234",  
+  "purchasedItemList": [  
+    {    
+      "itemName": "Cola",      
       "quantity": 3
       
     },
