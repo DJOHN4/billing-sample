@@ -1,0 +1,31 @@
+
+{
+  "orderId": "ORD1234",
+  "purchasedItemList": [
+    {
+      "itemName": "Cola",
+      "quantity": 3,
+      "totalPrice": 0,
+      "totalServiceCharge": 0
+    },
+    {
+      "itemName": "Coffee",
+      "quantity": 2,
+      "totalPrice": 0,
+      "totalServiceCharge": 0
+    },
+    {
+      "itemName": "Cheese-Sandwich",
+      "quantity": 2,
+      "totalPrice": 0,
+      "totalServiceCharge": 0
+    },
+    {
+      "itemName": "Steak-Sandwich",
+      "quantity": 2,
+      "totalPrice": 0,
+      "totalServiceCharge": 0
+    }
+  ],
+  "tableNumber": "TAB0012"
+}
